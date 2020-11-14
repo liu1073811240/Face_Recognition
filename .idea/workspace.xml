@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="569906b1-2bc3-4e0b-93fc-d8317dce6172" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1icPsnUdDcfsJp5k6RbKPzfC6Rq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2020-10-14-Net_Design" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\MTCNN_data\Rocog_face" />
+      <recent name="D:\PycharmProjects\MTCNN_data\Test_file2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\MTCNN_data\Rocog_face\Contrast_data2\1" />
+      <recent name="D:\PycharmProjects\MTCNN_data\Rocog_face\Contrast_data2\0" />
+      <recent name="D:\PycharmProjects\MTCNN_data\Rocog_face\Contrast_data\5" />
+      <recent name="D:\PycharmProjects\MTCNN_data\Rocog_face\Contrast_data\6" />
+      <recent name="D:\PycharmProjects\MTCNN_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.detect3_">
+    <configuration name="detect3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MTCNN_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect3_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MTCNN_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect3_.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="use3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MTCNN_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rocog_face" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rocog_face/use3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="use5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MTCNN_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rocog_face" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rocog_face/use5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="use6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MTCNN_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rocog_face" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rocog_face/use6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.detect3_" />
+        <item itemvalue="Python.detect3" />
+        <item itemvalue="Python.use6" />
+        <item itemvalue="Python.use5" />
+        <item itemvalue="Python.use3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="569906b1-2bc3-4e0b-93fc-d8317dce6172" name="Default Changelist" comment="" />
+      <created>1602203902820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602203902820</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="770" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603787325918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="770" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603787325918" />
+    <state x="817" y="216" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603967817112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="817" y="216" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603967817112" />
+    <state x="810" y="286" key="FileChooserDialogImpl" timestamp="1605077754254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="286" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605077754254" />
+    <state width="1603" height="126" key="GridCell.Tab.0.bottom" timestamp="1605263385142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1603" height="126" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605263385142" />
+    <state width="1603" height="126" key="GridCell.Tab.0.center" timestamp="1605263385142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1603" height="126" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605263385142" />
+    <state width="1603" height="126" key="GridCell.Tab.0.left" timestamp="1605263385142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1603" height="126" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605263385142" />
+    <state width="1603" height="126" key="GridCell.Tab.0.right" timestamp="1605263385142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1603" height="126" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605263385142" />
+    <state width="1373" height="302" key="GridCell.Tab.1.bottom" timestamp="1602830746630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1373" height="302" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602830746630" />
+    <state width="1373" height="302" key="GridCell.Tab.1.center" timestamp="1602830746629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1373" height="302" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602830746629" />
+    <state width="1373" height="302" key="GridCell.Tab.1.left" timestamp="1602830746629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1373" height="302" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602830746629" />
+    <state width="1373" height="302" key="GridCell.Tab.1.right" timestamp="1602830746629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1373" height="302" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602830746629" />
+    <state x="352" y="88" key="SettingsEditor" timestamp="1603963172522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="352" y="88" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603963172522" />
+    <state x="515" y="29" width="1407" height="962" key="dock-window-1" timestamp="1603936293312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="515" y="29" width="1407" height="962" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1603936293312" />
+    <state x="15" y="51" width="1313" height="955" key="dock-window-2" timestamp="1603966270562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="15" y="51" width="1313" height="955" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1603966270562" />
+    <state x="-15" y="4" width="1219" height="983" key="dock-window-3" timestamp="1603967758810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-15" y="4" width="1219" height="983" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1603967758810" />
+    <state x="-13" y="11" width="1136" height="1013" key="dock-window-4" timestamp="1603970113729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-13" y="11" width="1136" height="1013" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1603970113729" />
+    <state x="767" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1603272276521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="767" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603272276521" />
+  </component>
+</project>
